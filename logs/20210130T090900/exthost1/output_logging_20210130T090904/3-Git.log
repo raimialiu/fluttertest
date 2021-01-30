@@ -1,0 +1,236 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/aliuraimitunde/Desktop/tunde/flutterwavetest
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :utilities/utilities.js
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/utilities/utilities.js
+> git cat-file -s 0b08c7c095ce5dd627740c0c4abd822cab9a4101
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/main.js
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/routes/main.js
+> git cat-file -s 8d619a72ace3d6e9c03d66bc62f0251fd0ec1e4a
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+> git check-ignore -v -z --stdin
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/Cookies
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :routes/main.js
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/routes/main.js
+> git cat-file -s 8d619a72ace3d6e9c03d66bc62f0251fd0ec1e4a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse secondb
+> git rev-parse --symbolic-full-name secondb@{u}
+fatal: no upstream configured for branch 'secondb'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

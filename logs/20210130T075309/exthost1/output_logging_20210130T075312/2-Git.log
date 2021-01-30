@@ -1158,3 +1158,511 @@ fatal: no upstream configured for branch 'master'
 > git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/config/swagger.js
 > git cat-file -s 3967030b7af0a2f2cf234cba45ee02fc676a0a70
 > git show --textconv :config/swagger.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/config/swagger.js
+> git cat-file -s 3967030b7af0a2f2cf234cba45ee02fc676a0a70
+> git show --textconv :config/swagger.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/config/swagger.js
+> git cat-file -s 3967030b7af0a2f2cf234cba45ee02fc676a0a70
+> git show --textconv :config/swagger.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/config/swagger.js
+> git cat-file -s 3967030b7af0a2f2cf234cba45ee02fc676a0a70
+> git show --textconv :config/swagger.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/aliuraimitunde/Desktop/tunde/flutterwavetest/package.json
+> git cat-file -s cec8e890386298eb9f8ae693c91cbbe13a695743
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse skone
+> git rev-parse --symbolic-full-name skone@{u}
+fatal: no upstream configured for branch 'skone'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -44,6 +44,6 @@ fastify.register(require("fastify-swagger"), {
 
 fastify.register(require("./routes/main"))
 
-fastify.listen(3200, function(er, address){
+fastify.listen(process.env.PORT || 3200,process.env.HOST || "0.0.0.0", function(er, address){
     fastify.log.info(`server listening at ${address}`)
 })

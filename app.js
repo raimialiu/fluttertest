@@ -1,7 +1,8 @@
 const fastify = require("fastify")({
-    logger:{
-        file:"logs/logs.txt"
-    }
+    // logger:{
+    //     file:"logs/logs.txt"
+    // }
+    logger:true
 })
 const swagger = require("./config/swagger")
 

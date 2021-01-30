@@ -11,8 +11,8 @@ exposeRoute: true,
       url: 'https://swagger.io',
       description: 'Find more info here'
     },
-    host: 'localhost:3200',
-    schemes: ['http'],
+    host: 'quiet-earth-82983.herokuapp.com/ ',
+    schemes: ['http', 'https'],
     consumes: ['application/json'],
     produces: ['application/json']
   }

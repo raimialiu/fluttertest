@@ -1,0 +1,200 @@
+[2021-01-30 09:09:03.573] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aliuraimitunde/Desktop/tunde/flutterwavetest/.vscode'
+[2021-01-30 09:09:36.286] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'Backups' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:09:36.322] [renderer1] [error] Error: Failed to move 'Backups' to the trash: Unknown (FileSystemError): Error: Failed to move 'Backups' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:09:43.957] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'blob_storage' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:09:43.959] [renderer1] [error] Error: Failed to move 'blob_storage' to the trash: Unknown (FileSystemError): Error: Failed to move 'blob_storage' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:09:56.703] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'Cache' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:09:56.704] [renderer1] [error] Error: Failed to move 'Cache' to the trash: Unknown (FileSystemError): Error: Failed to move 'Cache' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:10.782] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'Crash Reports' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:10.783] [renderer1] [error] Error: Failed to move 'Crash Reports' to the trash: Unknown (FileSystemError): Error: Failed to move 'Crash Reports' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:21.842] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'Local Storage' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:21.843] [renderer1] [error] Error: Failed to move 'Local Storage' to the trash: Unknown (FileSystemError): Error: Failed to move 'Local Storage' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:42.840] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'Session Storage' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:42.841] [renderer1] [error] Error: Failed to move 'Session Storage' to the trash: Unknown (FileSystemError): Error: Failed to move 'Session Storage' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:45.023] [renderer1] [critical] {"fileOperationResult":11,"options":{"preferUnbuffered":true}}
+[2021-01-30 09:10:45.062] [renderer1] [critical] {"fileOperationResult":11,"options":{"preferUnbuffered":true}}
+[2021-01-30 09:10:48.405] [renderer1] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.views.state Length: 314
+[2021-01-30 09:10:55.026] [renderer1] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?),(?,?)). Details: Keys: memento/workbench.parts.editor, editors.mru, history.entries, workbench.explorer.treeViewState Length: 4141
+[2021-01-30 09:10:57.708] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'Cookies' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:10:57.711] [renderer1] [error] Error: Failed to move 'Cookies' to the trash: Unknown (FileSystemError): Error: Failed to move 'Cookies' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:11:00.025] [renderer1] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.views.state Length: 315
+[2021-01-30 09:11:02.246] [renderer1] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?),(?,?)). Details: Keys: memento/workbench.parts.editor, editors.mru, history.entries, workbench.explorer.treeViewState Length: 3268
+[2021-01-30 09:11:12.543] [renderer1] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.treeViewState Length: 426
+[2021-01-30 09:11:14.114] [renderer1] [error] Unknown (FileSystemError): Error: Failed to move 'rapid_render.json' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-30 09:11:14.115] [renderer1] [error] Error: Failed to move 'rapid_render.json' to the trash: Unknown (FileSystemError): Error: Failed to move 'rapid_render.json' to the trash
+    at Object.h [as createFileSystemProviderError] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at r.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1819:651)
+    at async _.del (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1811:328)
+    at async p.delete (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6784:18)
+    at async v.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6815:538)
+    at async S.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
